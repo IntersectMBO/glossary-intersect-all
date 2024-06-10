@@ -2,4 +2,4 @@
 
 ## What is the Intersect Glossary?
 
-## Goals of the Committee?
+## Goals?
