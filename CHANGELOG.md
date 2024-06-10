@@ -1,3 +1,3 @@
-# xxxx Committee Changelog
+# Intersect Glossary Changelog
 
 All major changes to this project will be documented in this file.

@@ -1,5 +1,5 @@
-# xxxx Committee
+# Intersect Glossary
 
-## What is the xxxx Committee?
+## What is the Intersect Glossary?
 
 ## Goals of the Committee?
