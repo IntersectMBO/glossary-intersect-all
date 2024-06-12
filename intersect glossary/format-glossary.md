@@ -20,8 +20,8 @@ Basic Format Standard for Glossary
 	    - Source (Opt) 
 	    - Verified By (Req)
 
-Example:
-## List
+New File Example:
+## ListName 
 <dl>
   <dt>First Term</dt>
   <dd>This is the definition of the first term.</dd>
